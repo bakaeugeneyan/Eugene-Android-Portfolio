@@ -16,7 +16,7 @@ I'm Eugene, a passionate and detail-oriented Android developer with a focus on c
 ## 📂 Projects:
 
 ### Project 1: Propnex Investment Suite
-![Propnex Investment Suite Screenshot]([[https://github.com/username/repository/blob/main/path_to_image.png](https://play.google.com/store/apps/details?id=com.investmentsuite&hl=en)](https://play-lh.googleusercontent.com/tUymm7RumB1tNkLvPBL534gozZ9BsAk_HjLuIbWeNSOcwJb8dkub9DMLVp8tA085e9Vx=w526-h296-rw)https://play-lh.googleusercontent.com/C3Uq9Jnp5xHDLolbze5DhI3k8RwVFfOGgTiRC65CvTpEcnI-KjEivJ50DWUcbUSm1w=w526-h296-rw)
+![Propnex Investment Suite Screenshot](https://play-lh.googleusercontent.com/tUymm7RumB1tNkLvPBL534gozZ9BsAk_HjLuIbWeNSOcwJb8dkub9DMLVp8tA085e9Vx=w526-h296-rw)
 
 **Description:** Investment Suite, first in Singapore real estate market, an analytical tool that analyzes the trends of different property segment from HDB, Non-landed residential, landed, commercial and industrial.
 
