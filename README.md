@@ -16,7 +16,9 @@ I'm Eugene, a passionate and detail-oriented Android developer with a focus on c
 ## 📂 Projects:
 
 ### Project 1: Propnex Investment Suite
-![Propnex Investment Suite Screenshot](https://play-lh.googleusercontent.com/tUymm7RumB1tNkLvPBL534gozZ9BsAk_HjLuIbWeNSOcwJb8dkub9DMLVp8tA085e9Vx=w526-h296-rw) ![Propnex Investment Suite Screenshot]([https://play-lh.googleusercontent.com/tUymm7RumB1tNkLvPBL534gozZ9BsAk_HjLuIbWeNSOcwJb8dkub9DMLVp8tA085e9Vx=w526-h296-rw](https://play-lh.googleusercontent.com/C3Uq9Jnp5xHDLolbze5DhI3k8RwVFfOGgTiRC65CvTpEcnI-KjEivJ50DWUcbUSm1w=w526-h296-rw))
+![](https://play-lh.googleusercontent.com/tUymm7RumB1tNkLvPBL534gozZ9BsAk_HjLuIbWeNSOcwJb8dkub9DMLVp8tA085e9Vx=w526-h296-rw) ![](https://play-lh.googleusercontent.com/C3Uq9Jnp5xHDLolbze5DhI3k8RwVFfOGgTiRC65CvTpEcnI-KjEivJ50DWUcbUSm1w=w526-h296-rw) ![](https://play-lh.googleusercontent.com/gsV7irA6j8WRW26w8hlHmDQjoOwNpTy61XEN3BNt3L4KpWIjAupNXRAy_YlezLlg3l4=w526-h296-rw) ![](https://play-lh.googleusercontent.com/yiuUikwyZPNaG3AzTVsUsQfyZM39ibYwVmZWFqjB1q6YqV_ftM2P1uVxrbnKbSJyPj8=w526-h296-rw) ![](https://play-lh.googleusercontent.com/EKs09pCOfFKDDErLkhnZmyxntxeC9H8HUYsew65ppHXCrCbnpfhGDDYx5iQ0AZQbubs=w526-h296-rw) ![](https://play-lh.googleusercontent.com/trCJe7e4RegauHDlCZ-mniZKFPmQUCEeR3i9juvq-aFLmkg6ps4I0mQe48K1GBSA81g=w526-h296-rw) ![](https://play-lh.googleusercontent.com/7Rb2Wisw2Re5LJlg7V2VwiyD1VAo0IWucVWnnYnJ_UKWJx-7Y-xE62EQzEdm1s0NIA=w526-h296-rw)
+
+
 
 **Description:** Investment Suite, first in Singapore real estate market, an analytical tool that analyzes the trends of different property segment from HDB, Non-landed residential, landed, commercial and industrial.
 
