@@ -21,7 +21,7 @@ I'm Eugene, a passionate and detail-oriented Android developer with a focus on c
 
 **Description:** Investment Suite, first in Singapore real estate market, an analytical tool that analyzes the trends of different property segment from HDB, Non-landed residential, landed, commercial and industrial.
 
-**Google Play Store:** [](https://play.google.com/store/apps/details?id=com.investmentsuite&hl=en)
+**Google Play Store:** [Download Propnex Investment Suite](https://play.google.com/store/apps/details?id=com.investmentsuite&hl=en)
 
 ---
 
@@ -31,7 +31,7 @@ I'm Eugene, a passionate and detail-oriented Android developer with a focus on c
 
 **Description:** A powerful PropNex personal assistant to help agents to be more productive and efficient in their daily business work.
 
-**Google Play Store:** [](https://play.google.com/store/apps/details?id=propnex.com.businesssuites&hl=en)
+**Google Play Store:** [Download Propnex Business Suite](https://play.google.com/store/apps/details?id=propnex.com.businesssuites&hl=en)
 
 ---
 
@@ -41,7 +41,7 @@ I'm Eugene, a passionate and detail-oriented Android developer with a focus on c
 
 **Description:** A powerful PropNex personal assistant to help agents to be more productive and efficient in their daily business work.
 
-**Google Play Store:** [](https://play.google.com/store/apps/details?id=propnex.com.seraphic.propnex&hl=en)
+**Google Play Store:** [Download Propnex Sales Suite](https://play.google.com/store/apps/details?id=propnex.com.seraphic.propnex&hl=en)
 
 ---
 
@@ -55,7 +55,7 @@ With a suite of best in class solutions and features, ATRAM Prime equips you wit
 
 By downloading this app, you will enjoy access to the following ATRAM Prime features
 
-**Google Play Store:** [](https://play.google.com/store/apps/details?id=com.atram_prime.v2&hl=en)
+**Google Play Store:** [Download ATRAM Prime](https://play.google.com/store/apps/details?id=com.atram_prime.v2&hl=en)
 
 ---
 
@@ -66,7 +66,7 @@ By downloading this app, you will enjoy access to the following ATRAM Prime feat
 - Bank Cash-in feature (e-wallet soon)
 - Tricycle Normal Booking only
 
-**Google Play Store:** [](https://play.google.com/store/apps/details?id=com.dyippay&hl=en)
+**Google Play Store:** [Download DyipPay](https://play.google.com/store/apps/details?id=com.dyippay&hl=en)
 
 ---
 
@@ -78,7 +78,7 @@ By downloading this app, you will enjoy access to the following ATRAM Prime feat
 2. Removed subscription.
 3. Removed donation.
 
-**Google Play Store:** [](https://play.google.com/store/apps/details?id=iChampion.BibleApp&hl=en)
+**Google Play Store:** [Download The One Bible](https://play.google.com/store/apps/details?id=iChampion.BibleApp&hl=en)
 
 ---
 
@@ -91,5 +91,5 @@ Let's create something extraordinary together! 🚀
 🌐 Let's Connect
 
 📧 **Contact Me:**
-- Email: [eugene@example.com](mailto:eugene.veladiez@gmail.com)
+- Email: [eugene.veladiez@gmail.com](mailto:eugene.veladiez@gmail.com)
 
