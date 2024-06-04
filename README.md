@@ -3,10 +3,10 @@
 I'm Eugene, a passionate and detail-oriented Android developer with a focus on crafting user-friendly and innovative mobile applications. My goal is to create seamless and engaging user experiences while staying abreast of the latest industry trends and technologies.
 
 ## 💻 Tech Stack:
-- **Languages**: Kotlin | Java
-- **Tools**: Android Studio | Retrofit
-- **Frameworks**: Jetpack Compose | MVVM Architecture
-- **Others**: Dependency Injection | Room Database
+- **Languages**: Kotlin
+- **Tools**: Android Studio
+- **Libraries and Patterns**: Retrofit | Okhttp | MVVM Architecture
+- **Others**: Dependency Injection | Room Database | Sql Lite
 
 ## 🛠️ What I Bring to the Table:
 - Proven expertise in building robust Android applications.
@@ -15,14 +15,10 @@ I'm Eugene, a passionate and detail-oriented Android developer with a focus on c
 
 ## 📂 Projects:
 
-### Project 1: AwesomeApp
-![AwesomeApp Screenshot](https://github.com/username/repository/blob/main/path_to_image.png)
+### Project 1: Propnex Investment Suite
+![Propnex Investment Suite Screenshot]([https://github.com/username/repository/blob/main/path_to_image.png](https://play.google.com/store/apps/details?id=com.investmentsuite&hl=en))
 
-**Description:** A brief description of what the project is about, its features, and its purpose.
-
-**Technologies Used:** Kotlin, Jetpack Compose, Retrofit, Room Database
-
-**GitHub Repository:** [AwesomeApp](https://github.com/username/AwesomeApp)
+**Description:** Investment Suite, first in Singapore real estate market, an analytical tool that analyzes the trends of different property segment from HDB, Non-landed residential, landed, commercial and industrial.
 
 ---
 
