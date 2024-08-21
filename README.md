@@ -5,7 +5,7 @@ I'm Eugene, a passionate and detail-oriented Android developer with a focus on c
 ## 💻 Tech Stack:
 - **Languages**: Kotlin
 - **Tools**: Android Studio
-- **Libraries and Patterns**: Retrofit | Okhttp | MVVM Architecture
+- **Libraries and Patterns**: Retrofit | Okhttp | MVVM Architecture | Jetpack Compose
 - **Others**: Dependency Injection | Room Database | Sql Lite
 
 ## 🛠️ What I Bring to the Table:
